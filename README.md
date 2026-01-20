@@ -24,6 +24,10 @@ Go-based MCP servers for Claude Code integration:
 | **[productplan-mcp-server](https://github.com/olgasafonova/productplan-mcp-server)** | Interact with roadmaps and OKRs |
 | **[gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server)** | Query LEI (Legal Entity Identifier) database |
 
+### Lazgi Hands
+
+**[lazgi-hands](https://olgasafonova.github.io/lazgi-hands/)** — Interactive visualization teaching Lazgi, a traditional Khorezm dance (UNESCO heritage). Uses algorithms from the birthplace of algorithms.
+
 ## Links
 
 - [getskillcheck.com](https://getskillcheck.com) - SkillCheck Pro
