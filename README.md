@@ -25,6 +25,10 @@ Go-based MCP servers with 200+ tools across whiteboards, wikis, registries, and 
 | **[nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server)** | 23 | Query business registries across 4 Nordic countries |
 | **[gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server)** | 13 | Look up LEI codes for KYC and compliance |
 
+### MCP Workshop
+
+**[mcp-workshop](https://olgasafonova.github.io/mcp-workshop/)** — 1-hour workshop covering what MCPs are, how to use them, and how to build them. Presented for Women in Product Nordics & TechWomen Copenhagen. Includes a GLEIF starter kit with platform-specific setup guides.
+
 ### Lazgi Hands
 
 **[lazgi-hands](https://olgasafonova.github.io/lazgi-hands/)** — Interactive visualization teaching Lazgi, a traditional Khorezm dance (UNESCO heritage). Uses algorithms from the birthplace of algorithms.
