@@ -15,14 +15,15 @@ Validate Claude Code skills against the [agentskills specification](https://agen
 
 ### MCP Servers
 
-Go-based MCP servers for Claude Code integration:
+Go-based MCP servers with 200+ tools across whiteboards, wikis, registries, and financial data:
 
-| Server | Purpose |
-|--------|---------|
-| **[miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server)** | Control Miro whiteboards from AI assistants |
-| **[mediawiki-mcp-server](https://github.com/olgasafonova/mediawiki-mcp-server)** | Search, read, edit wiki content |
-| **[productplan-mcp-server](https://github.com/olgasafonova/productplan-mcp-server)** | Interact with roadmaps and OKRs |
-| **[gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server)** | Query LEI (Legal Entity Identifier) database |
+| Server | Tools | Purpose |
+|--------|-------|---------|
+| **[miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server)** | 79 | Control Miro whiteboards, generate diagrams from Mermaid |
+| **[mediawiki-mcp-server](https://github.com/olgasafonova/mediawiki-mcp-server)** | 36 | Search, edit, audit wiki content with Markdown conversion |
+| **[productplan-mcp-server](https://github.com/olgasafonova/productplan-mcp-server)** | 52 | Manage roadmaps and OKRs, with MCP eval framework |
+| **[nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server)** | 23 | Query business registries across 4 Nordic countries |
+| **[gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server)** | 13 | Look up LEI codes for KYC and compliance |
 
 ### Lazgi Hands
 
