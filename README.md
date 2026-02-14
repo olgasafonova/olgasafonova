@@ -33,7 +33,3 @@ Go-based MCP servers with 200+ tools across whiteboards, wikis, registries, and 
 
 **[lazgi-hands](https://olgasafonova.github.io/lazgi-hands/)** — Interactive visualization teaching Lazgi, a traditional Khorezm dance (UNESCO heritage). Uses algorithms from the birthplace of algorithms.
 
-## Links
-
-- [getskillcheck.com](https://getskillcheck.com) - SkillCheck Pro
-- [agentskills.io](https://agentskills.io) - Agent Skills specification
