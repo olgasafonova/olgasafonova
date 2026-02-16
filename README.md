@@ -27,7 +27,7 @@ Go-based MCP servers with 200+ tools across whiteboards, wikis, registries, and 
 
 ### MCP Workshop
 
-**[mcp-workshop](https://olgasafonova.github.io/mcp-workshop/)** — 1-hour workshop covering what MCPs are, how to use them, and how to build them. Presented for [Women in Product Nordics](https://www.linkedin.com/company/women-in-product-nordics) & [TechWomen Copenhagen](https://www.linkedin.com/company/techwomen-copenhagen). Includes a GLEIF starter kit with platform-specific setup guides.
+**[mcp-workshop](https://olgasafonova.github.io/mcp-workshop/presentation.html)** — 1-hour workshop covering what MCPs are, how to use them, and how to build them. Presented for [Women in Product Nordics](https://www.linkedin.com/company/women-in-product-nordics) & [TechWomen Copenhagen](https://www.linkedin.com/company/techwomen-copenhagen). Includes a GLEIF starter kit with platform-specific setup guides.
 
 ### Lazgi Hands
 
