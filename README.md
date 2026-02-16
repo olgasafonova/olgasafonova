@@ -15,15 +15,15 @@ Validate Claude Code skills against the [agentskills specification](https://agen
 
 ### MCP Servers
 
-Go-based MCP servers with 200+ tools across whiteboards, wikis, registries, and financial data:
+Go-based MCP servers for whiteboards, wikis, roadmaps, registries, and financial data:
 
-| Server | Tools | Purpose |
-|--------|-------|---------|
-| **[miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server)** | 79 | Control Miro whiteboards, generate diagrams from Mermaid |
-| **[mediawiki-mcp-server](https://github.com/olgasafonova/mediawiki-mcp-server)** | 36 | Search, edit, audit wiki content with Markdown conversion |
-| **[productplan-mcp-server](https://github.com/olgasafonova/productplan-mcp-server)** | 52 | Manage roadmaps and OKRs, with MCP eval framework |
-| **[nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server)** | 23 | Query business registries across 4 Nordic countries |
-| **[gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server)** | 13 | Look up LEI codes for KYC and compliance |
+| Server | What it solves |
+|--------|---------------|
+| **[miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server)** | Build boards, sticky grids, and Mermaid diagrams from conversation instead of dragging shapes one by one |
+| **[mediawiki-mcp-server](https://github.com/olgasafonova/mediawiki-mcp-server)** | Find, edit, and audit wiki content from AI conversation. Catch broken links and stale pages automatically. Search inside pages and uploaded files. Bulk-replace terms across categories |
+| **[productplan-mcp-server](https://github.com/olgasafonova/productplan-mcp-server)** | Pull roadmap status, OKR progress, and idea backlogs into conversation instead of switching apps. Read and write roadmaps, OKRs, ideas, and launches through AI. Includes an eval suite for tool selection accuracy |
+| **[nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server)** | Look up companies across Norway, Denmark, Finland, and Sweden through one interface instead of four government websites. Registrations, roles, branches, and annual reports across four countries |
+| **[gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server)** | Validate LEI codes, trace corporate ownership, and cross-reference BIC/ISIN identifiers for KYC and compliance. Look up legal entities by LEI, BIC, ISIN, or name. Built for KYC workflows and regulatory reporting |
 
 ### MCP Workshop
 
@@ -32,4 +32,3 @@ Go-based MCP servers with 200+ tools across whiteboards, wikis, registries, and 
 ### Lazgi Hands
 
 **[lazgi-hands](https://olgasafonova.github.io/lazgi-hands/)** — Interactive visualization teaching Lazgi, a traditional Khorezm dance (UNESCO heritage). Uses algorithms from the birthplace of algorithms.
-
