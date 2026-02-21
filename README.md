@@ -25,6 +25,14 @@ Go-based MCP servers for whiteboards, wikis, roadmaps, registries, and financial
 | **[nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server)** | Look up companies across Norway, Denmark, Finland, and Sweden through one interface instead of four government websites. Registrations, roles, branches, and annual reports across four countries |
 | **[gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server)** | Validate LEI codes, trace corporate ownership, and cross-reference BIC/ISIN identifiers for KYC and compliance. Look up legal entities by LEI, BIC, ISIN, or name. Built for KYC workflows and regulatory reporting |
 
+### Libraries & Infrastructure
+
+Go libraries for MCP server developers:
+
+| Library | What it does |
+|---------|-------------|
+| **[mcp-otel-go](https://github.com/olgasafonova/mcp-otel-go)** | OpenTelemetry middleware for go-sdk MCP servers. One function call adds tracing and metrics following the OTel semantic conventions for MCP. Works with Jaeger, Grafana, Datadog, Honeycomb, or any OTLP backend |
+
 ### MCP Workshop
 
 **[mcp-workshop](https://olgasafonova.github.io/mcp-workshop/presentation.html)** — 1-hour workshop covering what MCPs are, how to use them, and how to build them. Presented for [Women in Product Nordics](https://www.linkedin.com/company/women-in-product-nordics) & [TechWomen Copenhagen](https://www.linkedin.com/company/techwomen-copenhagen). Includes a GLEIF starter kit with platform-specific setup guides.
