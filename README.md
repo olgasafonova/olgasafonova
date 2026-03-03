@@ -21,6 +21,10 @@ Go-based MCP servers for whiteboards, wikis, roadmaps, registries, and financial
 - **[nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server)** - Look up companies across Norway, Denmark, Finland, and Sweden through one interface instead of four government websites. Registrations, roles, branches, and annual reports across four countries
 - **[gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server)** - Validate LEI codes, trace corporate ownership, and cross-reference BIC/ISIN identifiers for KYC and compliance. Look up legal entities by LEI, BIC, ISIN, or name. Built for KYC workflows and regulatory reporting
 
+### KanaDojo
+
+- **[kanadojo](https://olgasafonova.github.io/kanadojo/)** - Japanese kana trainer with sumi-e mnemonic illustrations, spaced repetition, and a belt system. Built as a Duolingo companion for the 92 hiragana and katakana characters
+
 ### Libraries & Infrastructure
 
 Go libraries for MCP server developers:
