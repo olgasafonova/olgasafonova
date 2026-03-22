@@ -31,9 +31,10 @@ Go libraries for MCP server developers:
 
 - **[mcp-otel-go](https://github.com/olgasafonova/mcp-otel-go)** - OpenTelemetry middleware for go-sdk MCP servers. One function call adds tracing and metrics following the OTel semantic conventions for MCP. Works with Jaeger, Grafana, Datadog, Honeycomb, or any OTLP backend
 
-### MCP Workshop
+### Talks & Workshops
 
 - **[mcp-workshop](https://olgasafonova.github.io/mcp-workshop/presentation.html)** - 1-hour workshop covering what MCPs are, how to use them, and how to build them. Presented for [Women in Product Nordics](https://www.linkedin.com/company/women-in-product-nordics) & [TechWomen Copenhagen](https://www.linkedin.com/company/techwomen-copenhagen). Includes a GLEIF starter kit with platform-specific setup guides.
+- **[techlabs-talk](https://olgasafonova.github.io/techlabs-talk/presentation.html)** - "AI That Does Things" — talk and live demos for [TechLabs Copenhagen](https://www.techlabs.org/). Covers MCP, compound AI systems, what fails in practice, and how to apply these tools to your own projects.
 
 ### Lazgi Hands
 
