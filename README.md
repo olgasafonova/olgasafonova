@@ -13,7 +13,7 @@ Validate Claude Code skills against the [agentskills specification](https://agen
 
 ### MCP Servers
 
-Go-based MCP servers for whiteboards, wikis, roadmaps, registries, and financial data:
+MCP servers for whiteboards, wikis, roadmaps, registries, financial data, and grocery deals:
 
 - **[miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server)** - Build boards, sticky grids, and Mermaid diagrams from conversation instead of dragging shapes one by one
 - **[mediawiki-mcp-server](https://github.com/olgasafonova/mediawiki-mcp-server)** - Find, edit, and audit wiki content from AI conversation. Catch broken links and stale pages automatically. Search inside pages and uploaded files. Bulk-replace terms across categories
