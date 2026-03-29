@@ -36,8 +36,8 @@ Go libraries for MCP server developers:
 
 ### Talks & Workshops
 
-- **[mcp-workshop](https://olgasafonova.github.io/mcp-workshop/presentation.html)** - 1-hour workshop covering what MCPs are, how to use them, and how to build them. Presented for [Women in Product Nordics](https://www.linkedin.com/company/women-in-product-nordics) & [TechWomen Copenhagen](https://www.linkedin.com/company/techwomen-copenhagen). Includes a GLEIF starter kit with platform-specific setup guides.
-- **[techlabs-talk](https://olgasafonova.github.io/techlabs-talk/presentation.html)** - "AI That Does Things": talk and live demos for [TechLabs Copenhagen](https://www.techlabs.org/). Covers MCP, compound AI systems, what fails in practice, and how to apply these tools to your own projects.
+- **[techlabs-talk](https://olgasafonova.github.io/techlabs-talk/presentation.html)** (Mar 2026) - "AI That Does Things": talk and live demos for [TechLabs Copenhagen](https://www.techlabs.org/). Covers MCP, compound AI systems, what fails in practice, and how to apply these tools to your own projects.
+- **[mcp-workshop](https://olgasafonova.github.io/mcp-workshop/presentation.html)** (Feb 2026) - 1-hour workshop covering what MCPs are, how to use them, and how to build them. Presented for [Women in Product Nordics](https://www.linkedin.com/company/women-in-product-nordics) & [TechWomen Copenhagen](https://www.linkedin.com/company/techwomen-copenhagen). Includes a GLEIF starter kit with platform-specific setup guides.
 
 ### Lazgi Hands
 
