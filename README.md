@@ -21,9 +21,12 @@ Go-based MCP servers for whiteboards, wikis, roadmaps, registries, and financial
 - **[nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server)** - Look up companies across Norway, Denmark, Finland, and Sweden through one interface instead of four government websites. Registrations, roles, branches, and annual reports across four countries
 - **[gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server)** - Validate LEI codes, trace corporate ownership, and cross-reference BIC/ISIN identifiers for KYC and compliance. Look up legal entities by LEI, BIC, ISIN, or name. Built for KYC workflows and regulatory reporting
 
-### KanaDojo
+### Learning Dojos
 
-- **[kanadojo](https://olgasafonova.github.io/kanadojo/)** - Japanese kana trainer with sumi-e mnemonic illustrations, spaced repetition, and a belt system. Built as a Duolingo companion for the 92 hiragana and katakana characters
+Spaced repetition trainers with visual metaphors. Built with React, SM-2 scheduling, and too much TypeScript:
+
+- **[Go Dojo](https://olgasafonova.github.io/godojo/)** - Learn Go through 60 quiz cards and gopher illustrations. Every concept gets a visual metaphor: slices become sushi rolls, channels become copper pipes. Six belts, white through black
+- **[KanaDojo](https://olgasafonova.github.io/kanadojo/)** - Learn Japanese hiragana and katakana through animated mnemonics, pronunciation audio, and spaced repetition. 92 characters, same belt system
 
 ### Libraries & Infrastructure
 
