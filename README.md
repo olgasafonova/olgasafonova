@@ -33,6 +33,7 @@ Spaced repetition trainers with visual metaphors. Built with React, SM-2 schedul
 
 Go libraries for MCP server developers:
 
+- **[mcp-servercard-go](https://github.com/olgasafonova/mcp-servercard-go)** - Reference implementation of SEP-2127 MCP Server Cards for Go. Drop-in middleware that serves a discovery document at `/.well-known/mcp-server-card` so clients know what your server offers before connecting
 - **[mcp-otel-go](https://github.com/olgasafonova/mcp-otel-go)** - OpenTelemetry middleware for go-sdk MCP servers. One function call adds tracing and metrics following the OTel semantic conventions for MCP. Works with Jaeger, Grafana, Datadog, Honeycomb, or any OTLP backend
 
 ### Talks & Workshops
