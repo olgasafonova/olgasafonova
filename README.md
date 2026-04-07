@@ -20,7 +20,7 @@ MCP servers for whiteboards, wikis, roadmaps, registries, financial data, and gr
 - **[productplan-mcp-server](https://github.com/olgasafonova/productplan-mcp-server)** - Pull roadmap status, OKR progress, and idea backlogs into conversation instead of switching apps. Read and write roadmaps, OKRs, ideas, and launches through AI. Includes an eval suite for tool selection accuracy
 - **[nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server)** - Look up companies across Norway, Denmark, Finland, and Sweden through one interface instead of four government websites. Registrations, roles, branches, and annual reports across four countries
 - **[gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server)** - Validate LEI codes, trace corporate ownership, and cross-reference BIC/ISIN identifiers for KYC and compliance. Look up legal entities by LEI, BIC, ISIN, or name. Built for KYC workflows and regulatory reporting
-- **[tilbudstrolden-mcp](https://github.com/olgasafonova/tilbudstrolden-mcp)** - Danish grocery deal hunter. Search live deals across supermarkets, plan weekly dinners around what's cheap, and get shopping lists grouped by store. Ships with 32 starter recipes
+- **[tilbudstrolden-mcp](https://github.com/olgasafonova/tilbudstrolden-mcp)** - Nordic grocery deal hunter (Denmark, Norway, Sweden). Search live deals across supermarkets, plan weekly dinners around what's cheap, and get shopping lists grouped by store. Ships with 32 starter recipes
 
 ### Learning Dojos
 
