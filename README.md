@@ -13,7 +13,7 @@ Validate Claude Code skills against the [agentskills specification](https://agen
 
 ### MCP Servers
 
-MCP servers for whiteboards, wikis, roadmaps, registries, financial data, and grocery deals:
+MCP servers for whiteboards, wikis, roadmaps, registries, financial data, architecture, and grocery deals:
 
 - **[miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server)** - Build boards, sticky grids, and Mermaid diagrams from conversation instead of dragging shapes one by one
 - **[mediawiki-mcp-server](https://github.com/olgasafonova/mediawiki-mcp-server)** - Find, edit, and audit wiki content from AI conversation. Catch broken links and stale pages automatically. Search inside pages and uploaded files. Bulk-replace terms across categories
@@ -21,6 +21,7 @@ MCP servers for whiteboards, wikis, roadmaps, registries, financial data, and gr
 - **[nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server)** - Look up companies across Norway, Denmark, Finland, and Sweden through one interface instead of four government websites. Registrations, roles, branches, and annual reports across four countries
 - **[gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server)** - Validate LEI codes, trace corporate ownership, and cross-reference BIC/ISIN identifiers for KYC and compliance. Look up legal entities by LEI, BIC, ISIN, or name. Built for KYC workflows and regulatory reporting
 - **[tilbudstrolden-mcp](https://github.com/olgasafonova/tilbudstrolden-mcp)** - Nordic grocery deal hunter (Denmark, Norway, Sweden). Search live deals across supermarkets, plan weekly dinners around what's cheap, and get shopping lists grouped by store. Ships with 32 starter recipes
+- **[ridge](https://github.com/olgasafonova/ridge)** - Reverse-engineer architecture from code (Go, TypeScript, Python) and markdown (Obsidian vaults, doc trees). Builds graphs from static analysis and wiki-links alike. Detects structural drift between git refs so changes don't slip through code review
 
 ### Learning Dojos
 
