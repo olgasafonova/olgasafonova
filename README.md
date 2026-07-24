@@ -23,6 +23,12 @@ MCP servers for whiteboards, wikis, roadmaps, registries, financial data, archit
 - **[tilbudstrolden-mcp](https://github.com/olgasafonova/tilbudstrolden-mcp)** - Nordic grocery deal hunter (Denmark, Norway, Sweden). Search live deals across supermarkets, plan weekly dinners around what's cheap, and get shopping lists grouped by store. Ships with 32 starter recipes
 - **[ridge](https://github.com/olgasafonova/ridge)** - Reverse-engineer architecture from code (Go, TypeScript, Python) and markdown (Obsidian vaults, doc trees). Builds graphs from static analysis and wiki-links alike. Detects structural drift between git refs so changes don't slip through code review
 
+### Command Line
+
+Single-binary tools for scripting the same APIs from a shell instead of a chat window:
+
+- **[miro-cli](https://github.com/olgasafonova/miro-cli)** - Drive Miro from bash, CI, or a Makefile. Bulk-migrate stickies between boards, audit board access, and search boards offline against a local SQLite mirror without spending API quota. One verb per REST endpoint, `--json` and `--dry-run` on everything, and a bundled `SKILL.md` so Claude Code can drive it directly
+
 ### Learning Dojos
 
 Spaced repetition trainers with visual metaphors. Built with React, SM-2 scheduling, and too much TypeScript:
